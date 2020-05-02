@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/kumaro/kumarwrites.github.io.git
+	branch = master
