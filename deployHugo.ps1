@@ -17,6 +17,9 @@ If (-Not (git status --porcelain)) {
 $ErrorActionPreference = "Stop"
 
 function gitCommit {
+
+        git pull origin master 
+        
         # Add changes to git.
         git add .
 
