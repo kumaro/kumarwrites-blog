@@ -1,4 +1,39 @@
-baseURL = "http://example.org/"
+# Site settings
+baseURL = "https://kumarwrites.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Kumar Garapati's Writings"
 theme="story"
+paginate = 5
+buildFuture = true
+
+[[menu.social]]
+  name = "GitHub"
+  title = "fab fa-github-square"
+  url = "https://github.com/xaprb/story/"
+
+[[menu.main]]
+  name = "Talks"
+  title = "Talks"
+  url = "/talks/"
+
+[[menu.main]]
+  name = "Slides"
+  title = "Slides"
+  url = "/slides/"
+
+[[menu.main]]
+  name = "Archives"
+  title = "Archives"
+  url = "/archives/"
+
+[params]
+  author = "Kumar Garapati"
+  twitter = "xaprb"
+  classes = []
+
+[outputs]
+  home = ["HTML", "JSON", "RSS"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML", "RSS"]
