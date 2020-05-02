@@ -1,0 +1,55 @@
+---
+slug : "about-me"
+title: "About Me"
+classes:
+- feature-nosubtitle
+- feature-nohdr
+
+---
+
+_I also write on my [employer's blog](https://www.confluent.io/blog/author/robin/) ([previously](http://ritt.md/rmoff))._
+
+---
+
+### `whoami`
+
+> Robin is a Senior Developer Advocate at Confluent, the company founded by the original creators of Apache Kafka®, as well as an Oracle ACE Director (alumnus). His career has always involved data, from the old worlds of COBOL and DB2, through the worlds of Oracle and Hadoop, and into the current world with Kafka. His particular interests are analytics, systems architecture, performance testing and optimization. He blogs at http://cnfl.io/rmoff and http://rmoff.net/ (and previously http://ritt.md/rmoff) and can be found tweeting grumpy geek thoughts as @rmoff. Outside of work he enjoys drinking good beer and eating fried breakfasts, although generally not at the same time.
+
+--- 
+
+### Speaking experience
+
+Speaker since 2009 at conferences including QCon, Devoxx, O'Reilly Strata, NDC, USENIX LISA, Kafka Summit, Øredev, O'Reilly SACon, Oracle OpenWorld, JavaZone, Big Data LDN, UKOUG, Oracle CODE, PGConf, etc plus numerous meetups.
+
+Slides & Recordings: http://rmoff.net/talks/
+
+---
+
+### Social
+
+* Twitter [@rmoff](https://twitter.com/rmoff/)
+* [Email](mailto:robin@rmoff.net)
+* [LinkedIn](https://www.linkedin.com/in/robinmoffatt)
+* [SpeakerDeck](https://speakerdeck.com/rmoff)
+* [GitHub](https://github.com/rmoff)
+* [Dev.to](https://dev.to/rmoff/)
+* [Telegram](https://t.me/rmoff)
+* [Instagram](https://www.instagram.com/rnmoffatt/)
+* [Keybase](https://keybase.io/rmoff/) 🔑
+* [Untappd](https://untappd.com/user/rmoff) 🍻
+* [last.fm](http://www.last.fm/user/themoff) 🎵
+* [Soundcloud](https://soundcloud.com/rmoff) 🎶
+* [Mixcloud](https://www.mixcloud.com/rmoff/) 🎶
+* [Strava](https://www.strava.com/athletes/10250052/) 🏃
+
+
+<a href="https://stackexchange.com/users/142729/robin-moffatt"><img src="https://stackexchange.com/users/flair/142729.png" width="208" height="58" alt="profile for Robin Moffatt on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Robin Moffatt on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
+<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/10250052/activity-summary/0fbe8f47b3fae6b562f6c9fba66b4d66492c0805'></iframe>
+
+---
+
+### Mugshots
+
+![](/images/2018/05/ksldn18-01.jpg)
+![](/images/2018/05/robin-moffatt-600px.jpg)
