@@ -1,0 +1,184 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Kumar Garapati&#39;s Writings </title>
+		<link>https://kumarwrites.com/mailchimp/index.xml</link>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<author>Kumar Garapati</author>
+		<rights>Copyright (c) 2025</rights>
+		<updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
+		
+		<item>
+			<title>P</title>
+			<link>https://kumarwrites.com/posts/p/</link>
+			<pubDate>Tue, 05 May 2020 03:10:25 EDT</pubDate>
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/posts/p/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>%!s(&lt;!-- raw HTML omitted --&gt;)&lt;!-- raw HTML omitted --&gt;this is a test</description>
+		</item>
+		
+		<item>
+			<title>The Story Hugo Theme</title>
+			<link>https://kumarwrites.com/about-story/</link>
+			<pubDate>Mon, 03 Sep 2018 00:00:00 UTC</pubDate>
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/about-story/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/unsplash-photos-o-ubWHV29Uk.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>Story is a beautiful responsive Hugo blog theme with powerful extra features out-of-the-box. It&amp;rsquo;s targeted to people who want to showcase their technical work online.</description>
+		</item>
+		
+		<item>
+			<title>Story&#39;s Theme Features</title>
+			<link>https://kumarwrites.com/theme-features/</link>
+			<pubDate>Sat, 01 Sep 2018 00:00:00 UTC</pubDate>
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/theme-features/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/unsplash-photos-nehfi_SfqtU.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>This page is a tour of Story&amp;rsquo;s features, so you can take full advantage of its power.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Story has a lot of features, but most are optional and have smart defaults!
+This page is an introduction to Story, with links to further pages that go into
+more details. There’s also a listing of features that either don’t need
+a separate documentation page, or just don’t have full documentation yet.&lt;!-- raw HTML omitted --&gt;</description>
+		</item>
+		
+		<item>
+			<title>Story&#39;s Feature Flags</title>
+			<link>https://kumarwrites.com/features/</link>
+			<pubDate>Thu, 30 Aug 2018 00:00:00 UTC</pubDate>
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/features/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/unsplash-photos-QRkew0KwXSM.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>Story comes with a lot of power, but it&amp;rsquo;s all configurable: almost every extra feature is optional.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Feature flags, which are called &lt;!-- raw HTML omitted --&gt;classes&lt;!-- raw HTML omitted --&gt; in the markup, control many of Story’s features.
+You can enable and disable them in your site config, or in an individual post’s front matter.
+This article documents Story’s feature flags.&lt;!-- raw HTML omitted --&gt;</description>
+		</item>
+		
+		<item>
+			<title>Story&#39;s Author Profiles</title>
+			<link>https://kumarwrites.com/author-profiles/</link>
+			<pubDate>Wed, 29 Aug 2018 00:00:00 UTC</pubDate>
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/author-profiles/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/unsplash-photos-TzMi5Ov7QeM.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>With Story, you can define global and per-item author profiles/biographies.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Story supports author profiles, so you can highlight your bio.
+It’s possible to set this globally for the entire site, or individually for each
+piece of content. Or you can set a global default and override it on individual
+pieces of content.
+Scroll to the bottom of any page on this site to see how author profiles are
+styled.&lt;!-- raw HTML omitted --&gt;</description>
+		</item>
+		
+		<item>
+			<title>Story&#39;s Figures, Captions, and Tables</title>
+			<link>https://kumarwrites.com/figures/</link>
+			<pubDate>Wed, 22 Aug 2018 00:00:00 UTC</pubDate>
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/figures/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/unsplash-photos-vHnVtLK8rCc.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>This article shows you how to enhance your images and tables with features such as captions and alternative stylings.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Story can automatically transform images into figures with captions.
+It can also add captions to tables.
+And it adds features and styling to both images and tables.
+This article is a demo of Story’s features for figures, tables, and captions.&lt;!-- raw HTML omitted --&gt;</description>
+		</item>
+		
+		<item>
+			<title>Story&#39;s Image Formatting Controls</title>
+			<link>https://kumarwrites.com/images/</link>
+			<pubDate>Tue, 21 Aug 2018 00:00:00 UTC</pubDate>
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/images/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>Story gives you extra control over image formatting using only Markdown syntax.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;This article is a demo of Story’s image-related features (other than &lt;!-- raw HTML omitted --&gt;figure captions&lt;!-- raw HTML omitted --&gt;).
+Story can apply a variety of stylistic and layout transformations to your images.
+These features are enabled by unobtrusive, accessibility-friendly tricks that give you more control over images than Markdown typically provides.
+Story also has out-of-the-box support for header and preview images, for a visually stunning site.&lt;!-- raw HTML omitted --&gt;</description>
+		</item>
+		
+		<item>
+			<title>Story&#39;s JavaScript Search</title>
+			<link>https://kumarwrites.com/search-page/</link>
+			<pubDate>Tue, 21 Aug 2018 00:00:00 UTC</pubDate>
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/search-page/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/unsplash-photos-4zxSWESyZio.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>With Story, your site will have built-in search with no external dependencies.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;This article documents Story’s built-in search features, which don’t rely on external search engines.
+Story uses the &lt;!-- raw HTML omitted --&gt;LunrJS&lt;!-- raw HTML omitted --&gt; library to provide fast browser-based search.
+This page first explains how search setup works, and then provides copy-paste
+ready code samples for you to use.&lt;!-- raw HTML omitted --&gt;</description>
+		</item>
+		
+		<item>
+			<title>Story&#39;s Music Notation</title>
+			<link>https://kumarwrites.com/music/</link>
+			<pubDate>Mon, 20 Aug 2018 04:00:00 UTC</pubDate>
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/music/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/jordan-mixson-372435-unsplash.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>Story can render music notation in your website.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Story uses the &lt;!-- raw HTML omitted --&gt;abcjs&lt;!-- raw HTML omitted --&gt; library to transform
+&lt;!-- raw HTML omitted --&gt;abc&lt;!-- raw HTML omitted --&gt; music notation into “sheet music” dynamically.
+This works well for displaying a wide variety of music notation in a web
+browser conveniently, without embedding images or PDFs or the like.&lt;!-- raw HTML omitted --&gt;</description>
+		</item>
+		
+		<item>
+			<title>Story&#39;s Mathematical Equation Typesetting</title>
+			<link>https://kumarwrites.com/math/</link>
+			<pubDate>Mon, 20 Aug 2018 00:00:00 UTC</pubDate>
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/math/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/unsplash-photos-5mZ_M06Fc9g.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>If you ever write equations or mathematical formulas, Story has the features you need.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;This article is a demo of Story’s ability to typeset mathematical equations,
+both inline and in block form.&lt;!-- raw HTML omitted --&gt;</description>
+		</item>
+		
+		<item>
+			<title>Story&#39;s Typography</title>
+			<link>https://kumarwrites.com/typography/</link>
+			<pubDate>Sun, 19 Aug 2018 00:00:00 UTC</pubDate>
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/typography/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/unsplash-photos-h-M3O25tyvI.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>Story uses gorgeous typefaces and is optimized for a pleasant reading experience on any device.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;This article is a demo of Story’s beautiful typography.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
+		</item>
+		
+		<item>
+			<title>Story&#39;s MailChimp Integration Features</title>
+			<link>https://kumarwrites.com/mailchimp-features/</link>
+			<pubDate>Sat, 18 Aug 2018 00:00:00 UTC</pubDate>
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/mailchimp-features/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/jessy-hoffmann-720198-unsplash.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>Story makes it easy to grow a MailChimp subscriber list and send beautifully formatted emails to them automatically.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;If you’re a blogger, you might use MailChimp to build a subscriber list, and
+Story makes that easy. MailChimp also has the ability to automatically send your
+new content to the list from an RSS feed, and guess what—Story helps you
+create an RSS feed customized just for that if you like, too.&lt;!-- raw HTML omitted --&gt;</description>
+		</item>
+		
+		<item>
+			<title>Creating Beautiful Presentations with Story</title>
+			<link>https://kumarwrites.com/talks/adirondack/</link>
+			<pubDate>Tue, 08 May 2018 16:00:00 -0500</pubDate>
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/talks/adirondack/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/slides/adirondack/thumbnail.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>Story&amp;rsquo;s Remark frameworks help you create sophisticated slides with simple, clean Markdown. There are predefined layouts for most presentation needs, beautiful typography and colors, precise image control, and a simple modular way to create custom layouts.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;This is a “talk” page in Story, which is the permanent homepage for a talk
+you’ve given at a specific event. It’s designed to showcase your appearance by
+bringing together information about the event, along with your slides and extra
+information like a video of your talk. In this way you can build a portfolio of
+your speaking history.&lt;!-- raw HTML omitted --&gt;</description>
+		</item>
+		
+		<item>
+			<title>About Me</title>
+			<link>https://kumarwrites.com/about-me/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/about-me/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>%!s(&lt;!-- raw HTML omitted --&gt;)&lt;!-- raw HTML omitted --&gt;Who am i?  Kumar Garapati is a Lead Web Developer at LinkPoint360. His career has always involved Website Development, from the old Asp.net WebForms, through the worlds of MVC and SPA, and into the current world of many JavaScript Frameworks. His particular interests are Full Stack Software Development, Angular, Ionic, .Net Framework and Cloud Architecture. Outside of work he enjoys travelling, drinking good beer and eating spicy food.
+Social  Twitter Email LinkedIn</description>
+		</item>
+		
+	</channel>
+</rss>

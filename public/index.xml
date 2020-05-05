@@ -5,8 +5,958 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<author>Kumar Garapati</author>
-		<rights>Copyright (c) 1</rights>
-		<updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
+		<rights>Copyright (c) 2025</rights>
+		<updated>2018-09-03 00:00:00 &#43;0000 UTC</updated>
+		
+		<item>
+			<title>The Story Hugo Theme</title>
+			<link>https://kumarwrites.com/about-story/</link>
+			<pubDate>Mon, 03 Sep 2018 00:00:00 UTC</pubDate>
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/about-story/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/unsplash-photos-o-ubWHV29Uk.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>&lt;p&gt;Story is a beautiful Hugo theme.  &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; is a static website
+generator, which builds websites by rendering
+&lt;a href=&#34;https://commonmark.org/help/&#34;&gt;Markdown&lt;/a&gt; content into templates from themes like
+Story. The resulting site is fast, secure, and easy to build and maintain.&lt;/p&gt;
+&lt;p&gt;Story is a responsive theme that supports blogs, with many extra features such
+as presentations, math and music typesetting, and search.  The Story design
+philosophy prioritizes simplicity and elegance, so it can be sophisticated
+and powerful at the same time.&lt;/p&gt;
+&lt;p&gt;Story is easy to use, making it a great way to share your writing and speaking
+with the world.  Story is targeted to technical writers and speakers: people
+such as software engineers and open source developers, who want a website for
+their technical work and side projects&amp;mdash;for example, those who write and speak
+about software engineering.&lt;/p&gt;
+&lt;p&gt;Story is deceptively simple, while offering the features you need:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Beautiful, responsive typography for long-form content on screen and in print, including blogs and single pages.&lt;/li&gt;
+&lt;li&gt;Support for Remark in-browser slideshows, written in simple Markdown.&lt;/li&gt;
+&lt;li&gt;LaTeX math equation typesetting.&lt;/li&gt;
+&lt;li&gt;Sheet music rendering from ABC music notation.&lt;/li&gt;
+&lt;li&gt;Built-in site search.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Story has many more features than this.
+Explore Story and learn all the ways it can help you showcase your work!&lt;/p&gt;
+&lt;p&gt;Read next: &lt;a href=&#34;https://kumarwrites.com/theme-features&#34;&gt;Story&amp;rsquo;s features&lt;/a&gt;.&lt;/p&gt;</description>
+		</item>
+		
+		<item>
+			<title>Story&#39;s Theme Features</title>
+			<link>https://kumarwrites.com/theme-features/</link>
+			<pubDate>Sat, 01 Sep 2018 00:00:00 UTC</pubDate>
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/theme-features/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/unsplash-photos-nehfi_SfqtU.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>&lt;p&gt;Story has a lot of features, but most are optional and have smart defaults!
+This page is an introduction to Story, with links to further pages that go into
+more details. There&amp;rsquo;s also a listing of features that either don&amp;rsquo;t need
+a separate documentation page, or just don&amp;rsquo;t have full documentation yet.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kumarwrites.com/typography&#34;&gt;Gorgeous, responsive typography on all devices and in print&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kumarwrites.com/images/&#34;&gt;Beautiful featured images and thumbnails&lt;/a&gt; (optional)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kumarwrites.com/images/&#34;&gt;Multiple layouts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kumarwrites.com/features&#34;&gt;Flexibility via feature toggles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kumarwrites.com/author-profiles&#34;&gt;Author profile pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kumarwrites.com/slides/&#34;&gt;Remark browser-based presentation support&lt;/a&gt;, including CSS themes and multiple aspect ratios&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kumarwrites.com/figures&#34;&gt;Automatic table and image enhancements&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kumarwrites.com/images&#34;&gt;Advanced image styling features&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kumarwrites.com/math&#34;&gt;Mathematical equation typesetting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kumarwrites.com/music&#34;&gt;Formatting ABC music notation as sheet music&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kumarwrites.com/search-page&#34;&gt;Built-in search&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kumarwrites.com/mailchimp-features&#34;&gt;MailChimp subscribe forms and RSS feeds&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Story also has support for the following, which aren&amp;rsquo;t extensively documented:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Code syntax highlighting&lt;/li&gt;
+&lt;li&gt;Google Analytics&lt;/li&gt;
+&lt;li&gt;Categories&lt;/li&gt;
+&lt;li&gt;All types of blogs; Story isn&amp;rsquo;t opinionated about what you call them (you
+can put your content under &lt;code&gt;/posts/&lt;/code&gt;, &lt;code&gt;/blog/&lt;/code&gt;, &lt;code&gt;/articles/&lt;/code&gt;, or whatever)&lt;/li&gt;
+&lt;li&gt;A section for &amp;ldquo;talks,&amp;rdquo; which is different from slideshows; a talks page is a
+place to put information about your presentations, including links to videos,
+the location, slides, and so on. &lt;code&gt;/talks/&lt;/code&gt; and &lt;code&gt;/slides/&lt;/code&gt; are the only two
+content types for which Story has special formatting and archetypes.&lt;/li&gt;
+&lt;li&gt;An archive listing page, which uses the &lt;code&gt;archives&lt;/code&gt; layout analogously to the &lt;a href=&#34;https://kumarwrites.com/search-page&#34;&gt;search&lt;/a&gt; feature&lt;/li&gt;
+&lt;li&gt;404 error page&lt;/li&gt;
+&lt;li&gt;Social-media meta tags to make your content look great when shared on social
+media sites&lt;/li&gt;
+&lt;li&gt;Using &lt;code&gt;skip&lt;/code&gt; to hide content from default lists, but generating HTML pages for it&lt;/li&gt;
+&lt;li&gt;Meta keywords&lt;/li&gt;
+&lt;li&gt;Font Awesome icon fonts&lt;/li&gt;
+&lt;li&gt;Custom header meta tags with any content you want&lt;/li&gt;
+&lt;li&gt;Custom footer content with any HTML, JS, or CSS you want; useful for adding
+custom features from third-parties that provide script blocks to paste into
+your site&lt;/li&gt;
+&lt;li&gt;Custom CSS classes in the &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; tag&lt;/li&gt;
+&lt;li&gt;Custom content and social link menus with any content you want (not limited to predefined)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Read next: &lt;a href=&#34;https://kumarwrites.com/features/&#34;&gt;Story&amp;rsquo;s feature flags&lt;/a&gt;.&lt;/p&gt;</description>
+		</item>
+		
+		<item>
+			<title>Story&#39;s Feature Flags</title>
+			<link>https://kumarwrites.com/features/</link>
+			<pubDate>Thu, 30 Aug 2018 00:00:00 UTC</pubDate>
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/features/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/unsplash-photos-QRkew0KwXSM.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>&lt;p&gt;Feature flags, which are called &lt;em&gt;classes&lt;/em&gt; in the markup, control many of Story&amp;rsquo;s features.
+You can enable and disable them in your site config, or in an individual post&amp;rsquo;s front matter.
+This article documents Story&amp;rsquo;s feature flags.&lt;/p&gt;
+&lt;h3 id=&#34;enabling-feature-flags&#34;&gt;Enabling Feature Flags&lt;/h3&gt;
+&lt;p&gt;Feature flags can be enabled globally or locally, and the combination of these determines content behavior.
+This lets you enable them for the entire site, or for an individual post.
+The combined list of features that applies to a piece of content is the union of the two lists.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s how to enable the &amp;ldquo;example&amp;rdquo; feature for the entire site, in your site&amp;rsquo;s &lt;code&gt;config.yaml&lt;/code&gt; file:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;params&lt;/span&gt;:
+   &lt;span style=&#34;color:#66d9ef&#34;&gt;classes&lt;/span&gt;:
+   - feature-example
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Here&amp;rsquo;s how to enable the &amp;ldquo;misc&amp;rdquo; feature in an individual piece of content, via its YAML front matter:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;---
+&lt;span style=&#34;color:#66d9ef&#34;&gt;classes&lt;/span&gt;:
+- feature-misc
+---
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The contents of both feature lists are combined and put into the &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; tag&amp;rsquo;s &lt;code&gt;class&lt;/code&gt; attribute, verbatim:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;feature-example feature-misc&amp;#34;&lt;/span&gt;&amp;gt;...&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;If you&amp;rsquo;re using TOML, then the syntax in &lt;code&gt;config.toml&lt;/code&gt; looks like this:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;params&lt;/span&gt;]
+  &lt;span style=&#34;color:#a6e22e&#34;&gt;classes&lt;/span&gt; = [&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;feature-example&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;feature-misc&amp;#34;&lt;/span&gt;]
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;disabling-features&#34;&gt;Disabling Features&lt;/h3&gt;
+&lt;p&gt;Many features can be &lt;em&gt;negated&lt;/em&gt; by prefixing the feature name with &lt;code&gt;no&lt;/code&gt;, like this:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;---
+&lt;span style=&#34;color:#66d9ef&#34;&gt;classes&lt;/span&gt;:
+- feature-noexample
+---
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;If a feature is enabled globally and negated in a single piece of content&amp;rsquo;s front matter, both the positive and negative form will appear in the CSS classes.
+Features in Story are inside of code that checks not only whether flags are enabled, but also whether they&amp;rsquo;re overridden with a negation.
+One consequence of this is that if you disable a feature globally in &lt;code&gt;config.yaml&lt;/code&gt;, you can&amp;rsquo;t enable it locally in a single piece of content.
+You can only enable globally and disable locally, not the other way around.&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s nothing special about a feature flag, and you can put arbitrary values into the configuration arrays.
+Story only recognizes and supports specific values; it ignores others.
+You can take advantage of this to add any values into the arrays that you want, if they&amp;rsquo;re useful for your other purposes.
+For example, you can use this ability to set any desired CSS class, for selection either with your custom CSS, or to work with something off-the-shelf that happens to look for a specific class.&lt;/p&gt;
+&lt;h3 id=&#34;list-of-features&#34;&gt;List Of Features&lt;/h3&gt;
+&lt;p&gt;Features have varying implementations.
+Some affect how Hugo processes content, some affect CSS presentation, and some are implemented in unobtrusive JavaScript after the page finishes loading.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s a list of all of Story&amp;rsquo;s features and how they&amp;rsquo;re implemented.
+The first column links to a demo of those features.
+For brevity, the &lt;code&gt;feature-&lt;/code&gt; prefix is omitted, but all of Story&amp;rsquo;s classes have that prefix to avoid naming conflicts.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Feature&lt;/th&gt;
+&lt;th&gt;Explanation&lt;/th&gt;
+&lt;th&gt;Implementation&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kumarwrites.com/images&#34;&gt;3dbook-covers&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Styles images to resemble a hardcover book&lt;/td&gt;
+&lt;td&gt;JS + CSS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kumarwrites.com/figures&#34;&gt;figcaption&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Transforms images into captioned figures&lt;/td&gt;
+&lt;td&gt;JS + CSS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kumarwrites.com/figures&#34;&gt;figcaption-hidden&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Hides figure captions, revealing them on mouseover&lt;/td&gt;
+&lt;td&gt;CSS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kumarwrites.com/figures&#34;&gt;figcaption-visible&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Formats figure captions visibly&lt;/td&gt;
+&lt;td&gt;CSS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kumarwrites.com/figures&#34;&gt;figlink&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Links text like &amp;ldquo;Figure/Table 3&amp;rdquo; to the corresponding figure or table&lt;/td&gt;
+&lt;td&gt;JS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kumarwrites.com/figures&#34;&gt;fignum&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Auto-numbers figures and tables&lt;/td&gt;
+&lt;td&gt;CSS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kumarwrites.com/typography&#34;&gt;h3-cl&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Adds CSS &lt;code&gt;clear: left&lt;/code&gt; to all &lt;code&gt;&amp;lt;h3&amp;gt;&lt;/code&gt; tags&lt;/td&gt;
+&lt;td&gt;CSS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kumarwrites.com/typography&#34;&gt;h3-cr&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Adds CSS &lt;code&gt;clear: right&lt;/code&gt; to all &lt;code&gt;&amp;lt;h3&amp;gt;&lt;/code&gt; tags&lt;/td&gt;
+&lt;td&gt;CSS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kumarwrites.com/typography&#34;&gt;h3-cb&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Adds CSS &lt;code&gt;clear: both&lt;/code&gt; to all &lt;code&gt;&amp;lt;h3&amp;gt;&lt;/code&gt; tags&lt;/td&gt;
+&lt;td&gt;CSS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kumarwrites.com/typography&#34;&gt;highlight&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Applies syntax highlighting to code blocks, using HighlightJS&lt;/td&gt;
+&lt;td&gt;JS + CSS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kumarwrites.com/typography&#34;&gt;hrdinkus&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Styles &lt;code&gt;&amp;lt;hr&amp;gt;&lt;/code&gt; elements as a dinkus (three asterisks)&lt;/td&gt;
+&lt;td&gt;CSS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kumarwrites.com/typography&#34;&gt;hrfleuron&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Styles &lt;code&gt;&amp;lt;hr&amp;gt;&lt;/code&gt; elements as a fleuron (❦)&lt;/td&gt;
+&lt;td&gt;CSS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kumarwrites.com/typography&#34;&gt;hyphenate&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Enables line-breaks and hyphenation of text via the browser&lt;/td&gt;
+&lt;td&gt;CSS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kumarwrites.com/typography&#34;&gt;justify&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Aligns text with full-justification&lt;/td&gt;
+&lt;td&gt;CSS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kumarwrites.com/math&#34;&gt;math&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Enables LaTeX math typesetting using KaTeX&lt;/td&gt;
+&lt;td&gt;JS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kumarwrites.com/music&#34;&gt;music&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Enables rendering abc notation as sheet music with abcjs&lt;/td&gt;
+&lt;td&gt;JS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kumarwrites.com/images/&#34;&gt;nohdr&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Disables header images locally; when applied globally, disables preview thumbnails in lists&lt;/td&gt;
+&lt;td&gt;Hugo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kumarwrites.com/typography&#34;&gt;subtitle&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Enabled by default; disable to hide page subtitles&lt;/td&gt;
+&lt;td&gt;CSS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kumarwrites.com/figures&#34;&gt;tablefig&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Styles tables similar to scientific papers&lt;/td&gt;
+&lt;td&gt;JS + CSS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kumarwrites.com/figures&#34;&gt;tablefw&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Sets table cells in a font with fixed-width numerals&lt;/td&gt;
+&lt;td&gt;CSS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;titlecase&lt;/td&gt;
+&lt;td&gt;Not enabled by default; Transforms All Content Titles to Titlecase&lt;/td&gt;
+&lt;td&gt;Hugo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://kumarwrites.com/typography&#34;&gt;tweetquote&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Renders a blockquote in a simplistic tweet style, if it follows conventions&lt;/td&gt;
+&lt;td&gt;JS + CSS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Read next: &lt;a href=&#34;https://kumarwrites.com/author-profiles/&#34;&gt;Story&amp;rsquo;s author biographies&lt;/a&gt;.&lt;/p&gt;</description>
+		</item>
+		
+		<item>
+			<title>Story&#39;s Author Profiles</title>
+			<link>https://kumarwrites.com/author-profiles/</link>
+			<pubDate>Wed, 29 Aug 2018 00:00:00 UTC</pubDate>
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/author-profiles/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/unsplash-photos-TzMi5Ov7QeM.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>&lt;p&gt;Story supports author profiles, so you can highlight your bio.
+It&amp;rsquo;s possible to set this globally for the entire site, or individually for each
+piece of content. Or you can set a global default and override it on individual
+pieces of content.
+Scroll to the bottom of any page on this site to see how author profiles are
+styled.&lt;/p&gt;
+&lt;p&gt;Story&amp;rsquo;s author profile system is a slightly simplified (incomplete)
+implementation of the ideas laid out in &lt;a href=&#34;https://www.netlify.com/blog/2018/07/24/hugo-tips-how-to-create-author-pages/&#34;&gt;Netlify&amp;rsquo;s how-to
+document&lt;/a&gt;.
+It allows only one author per piece of content, and doesn&amp;rsquo;t require Hugo to
+create the authors taxonomy.  Because it&amp;rsquo;s incomplete, it&amp;rsquo;s a) missing a few of the
+features Netlify describes, and b) easier to set up.&lt;/p&gt;
+&lt;h3 id=&#34;global-and-per-content-authors&#34;&gt;Global And Per-Content Authors&lt;/h3&gt;
+&lt;p&gt;If you want to specify an author in the front matter of each post, it&amp;rsquo;s
+simply specified like this (YAML example):&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;---
+author: &amp;quot;Elvis Presley&amp;quot;
+---
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;If you want to set a global author parameter for the entire site, which will serve as
+the default in case any pieces of content don&amp;rsquo;t specify their own, use your
+config file&amp;rsquo;s &lt;code&gt;params&lt;/code&gt; array:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;params:
+   author: &amp;quot;Baron Schwartz&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;That&amp;rsquo;s exactly what this sample site you&amp;rsquo;re reading right now does: Baron is the
+author by default, but Elvis is the author of &lt;em&gt;this&lt;/em&gt; content you&amp;rsquo;re reading now.&lt;/p&gt;
+&lt;h3 id=&#34;creating-author-profiles&#34;&gt;Creating Author Profiles&lt;/h3&gt;
+&lt;p&gt;To create author profiles, you need to create the author hierarchy under
+&lt;code&gt;content&lt;/code&gt;, and a slugified directory for each author. Then, place an &lt;code&gt;_index.md&lt;/code&gt;
+file into each of those directories, and give it the content needed to describe
+the author.&lt;/p&gt;
+&lt;p&gt;For example:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;└── content/
+    └── authors/
+        ├── elvis-presley/
+        │   └── _index.md
+        ├── aretha-franklin/
+        │   └── _index.md
+        └── stevie-wonder/
+            └── _index.md
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;You can put any content you want in the file, but Story has CSS to nicely format
+a square image followed by a paragraph of text. This page you&amp;rsquo;re viewing right
+now has &amp;ldquo;Elvis Presley&amp;rdquo; as its author, and the content of
+&lt;code&gt;content/authors/elvis-presley/_index.md&lt;/code&gt; is:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;---
+---
+![Elvis](/img/elvis.jpg)
+
+Elvis Aaron Presley (January 8, 1935 – August 16, 1977) was an American singer
+and actor. Regarded as one of the most significant cultural icons of the 20th
+century, he is often referred to as the &amp;quot;King of Rock and Roll&amp;quot; or simply &amp;quot;the
+King&amp;quot;.
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;global-fallback-content&#34;&gt;Global Fallback Content&lt;/h3&gt;
+&lt;p&gt;Even if you don&amp;rsquo;t have an author directory and a specific author&amp;rsquo;s file as
+described above, you can create content that will serve as a fallback across the
+whole site. If Story doesn&amp;rsquo;t find a specific author&amp;rsquo;s profile page, it&amp;rsquo;ll look
+for the default &lt;code&gt;_index.md&lt;/code&gt; content for the section it&amp;rsquo;s currently rendering.
+The top-level default for the whole site is &lt;code&gt;content/_index.md&lt;/code&gt;, which this demo
+site uses to provide Baron Schwartz&amp;rsquo;s author information. This information will
+appear on all pages &lt;em&gt;other than&lt;/em&gt; the current page, which is authored by Elvis
+Presley. This fallback information from &lt;code&gt;content/_index.md&lt;/code&gt; looks like the
+following:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[![Baron Schwartz](/img/baron-square.jpg)](https://www.xaprb.com)
+
+Baron Schwartz is the founder and CTO of [VividCortex](https://vividcortex.com), author of
+several books, and creator of various open-source software. He writes about topics
+such as technology, entrepreneurship, and fitness. [More about
+Baron](https://www.xaprb.com/).
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This content is a (non-author-specific) fallback for the entire site.
+You can see it on all the other pages of this site.&lt;/p&gt;
+&lt;p&gt;Read next: &lt;a href=&#34;https://kumarwrites.com/figures/&#34;&gt;Story&amp;rsquo;s figures, captions, and tables&lt;/a&gt;.&lt;/p&gt;</description>
+		</item>
+		
+		<item>
+			<title>Story&#39;s Figures, Captions, and Tables</title>
+			<link>https://kumarwrites.com/figures/</link>
+			<pubDate>Wed, 22 Aug 2018 00:00:00 UTC</pubDate>
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/figures/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/unsplash-photos-vHnVtLK8rCc.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>&lt;p&gt;Story can automatically transform images into figures with captions.
+It can also add captions to tables.
+And it adds features and styling to both images and tables.
+This article is a demo of Story&amp;rsquo;s features for figures, tables, and captions.&lt;/p&gt;
+&lt;h3 id=&#34;image-captions-and-figures&#34;&gt;Image Captions and Figures&lt;/h3&gt;
+&lt;p&gt;If the &lt;code&gt;feature-figcaption&lt;/code&gt; flag is set (and not negated), Story will transform
+your images into figures, and add a caption. There are several ways this can be done. Story tries
+each method, in the following order.&lt;/p&gt;
+&lt;p&gt;First, if an image is followed immediately by an &lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt; &lt;em&gt;in the same paragraph&lt;/em&gt;, Story treats
+the content of the &lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt; as the image caption. To enable this, the image and
+the text must not have a blank line between them. Example:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-md&#34; data-lang=&#34;md&#34;&gt;![&lt;span style=&#34;color:#f92672&#34;&gt;Water Lily&lt;/span&gt;](&lt;span style=&#34;color:#a6e22e&#34;&gt;/img/unsplash-photos-vHnVtLK8rCc.jpg&lt;/span&gt;)
+&lt;span style=&#34;font-style:italic&#34;&gt;_Water lily photo by Zoltan Tasi on Unsplash_&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This markup results in a &lt;code&gt;&amp;lt;p&amp;gt;&amp;lt;img...&amp;gt;&amp;lt;em...&amp;gt;&amp;lt;/p&amp;gt;&lt;/code&gt; markup that Story converts into a captioned figure.
+Hover your mouse over the picture to see the caption:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://kumarwrites.com/img/unsplash-photos-vHnVtLK8rCc.jpg&#34; alt=&#34;Water Lily&#34;&gt;
+&lt;em&gt;Water lily photo by Zoltan Tasi on Unsplash&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;If there&amp;rsquo;s no &lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt; to use, Story uses the image&amp;rsquo;s &lt;code&gt;title&lt;/code&gt; attribute as a fallback:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-md&#34; data-lang=&#34;md&#34;&gt;![&lt;span style=&#34;color:#f92672&#34;&gt;Water Lily&lt;/span&gt;](&lt;span style=&#34;color:#a6e22e&#34;&gt;/img/unsplash-photos-vHnVtLK8rCc.jpg &amp;#34;A water lily&amp;#34;&lt;/span&gt;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://kumarwrites.com/img/unsplash-photos-vHnVtLK8rCc.jpg&#34; alt=&#34;Water Lily&#34; title=&#34;A water lily&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Finally, Story falls back to the &lt;code&gt;alt&lt;/code&gt; attribute:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-md&#34; data-lang=&#34;md&#34;&gt;![&lt;span style=&#34;color:#f92672&#34;&gt;Water Lily&lt;/span&gt;](&lt;span style=&#34;color:#a6e22e&#34;&gt;/img/unsplash-photos-vHnVtLK8rCc.jpg&lt;/span&gt;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://kumarwrites.com/img/unsplash-photos-vHnVtLK8rCc.jpg&#34; alt=&#34;Water Lily&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;table-styling&#34;&gt;Table Styling&lt;/h3&gt;
+&lt;p&gt;Story has multiple built-in table styles that you can apply with feature flags.
+The default is similar to GitHub&amp;rsquo;s table styling:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Command&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;git status&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;List all &lt;em&gt;new or modified&lt;/em&gt; files&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;git diff&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Show file differences that &lt;strong&gt;haven&amp;rsquo;t been&lt;/strong&gt; staged&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;git commit&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Record changes to the repository&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;git branch&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;List, create, or delete branches&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;There is &lt;em&gt;also&lt;/em&gt; a style designed for tables that are part of an
+article with figures, resembling scientific papers or other more formal use
+cases. This is enabled with &lt;code&gt;feature-tablefig&lt;/code&gt;. Click &lt;!-- raw HTML omitted --&gt;here&lt;!-- raw HTML omitted --&gt; to toggle.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Item&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Estimated&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Positive and Significant&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Negative and Significant&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Demographic Variables for Head&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Male&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;85&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;74&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;11&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Age&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;85&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;85&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Age Squared&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;85&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;85&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Head&amp;rsquo;s Education&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Completed primary or incomplete secondary&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;76&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;76&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Completed secondary or higher&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;60&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;60&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Completed secondary&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;19&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;19&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Higher&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;20&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;20&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Unknown&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;12&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;12&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Tables with columns of right-aligned numbers are more readable with fixed-width numerals; click to toggle &lt;!-- raw HTML omitted --&gt;&lt;code&gt;feature-tablefw&lt;/code&gt;&lt;!-- raw HTML omitted --&gt;. Observe the table below and see how its columns are easier to read with fixed-width numerals. This is noticeable with Github-style table formatting, but not with academic-style.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Inclination, deg.&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Longitude, Asc. Node, deg.&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Mean Distance, au&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Eccentricity&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Mean  Longitude, deg.&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Jan. 28&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;7.0052&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;48.486&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.387097&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.205644&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;355.3943&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mar. 9&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;7.0052&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;48.487&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.387098&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.205646&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;159.0899&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Apr. 18&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;7.0052&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;48.489&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.387097&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.205649&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;322.7854&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;May 28&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;7.0052&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;48.490&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.387097&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.205650&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;126.4812&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;July 7&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;7.0052&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;48.492&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.387098&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.205645&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;290.1771&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Aug. 16&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;7.0052&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;48.493&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.387098&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.205645&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;93.8725&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sept. 25&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;7.0052&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;48.494&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.387098&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.205642&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;257.5683&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Nov. 4&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;7.0052&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;48.495&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.387099&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.205635&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;61.2628&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dec. 14&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;7.0052&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;48.497&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.387099&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.205635&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;224.9579&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dec. 54&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;7.0052&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;48.498&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.387098&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.205633&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;28.6524&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;em&gt;Mercury&amp;rsquo;s Heliocentric Osculating Orbital Elements Referred to the Mean Equinox and Ecliptic of Date for 2013&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;caption-styling-and-linking&#34;&gt;Caption Styling And Linking&lt;/h3&gt;
+&lt;p&gt;Story uses JavaScript and CSS to make figures and tables more beautiful and
+functional.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Figures and tables get sequentially numbered &lt;code&gt;ID&lt;/code&gt; attributes of &lt;code&gt;#fig-1&lt;/code&gt; and so on, so
+you can link to them.&lt;/li&gt;
+&lt;li&gt;The &lt;code&gt;feature-figlink&lt;/code&gt; feature flag searches the article for text such as
+Figure 1 and automatically links it to the appropriate figure.&lt;/li&gt;
+&lt;li&gt;If the &lt;code&gt;feature-fignum&lt;/code&gt; feature is enabled, the text of the caption is
+prepended with the figure number. Click here to &lt;!-- raw HTML omitted --&gt;toggle this
+feature&lt;!-- raw HTML omitted --&gt;, then inspect the captions again to see the effect.&lt;/li&gt;
+&lt;li&gt;The &lt;code&gt;feature-figcaption-hidden&lt;/code&gt; feature makes the captions hidden until you
+move the mouse over them. The &lt;code&gt;feature-figcaption-visible&lt;/code&gt; feature flag
+overrides this and makes the captions visible immediately below the image.
+Click here to &lt;!-- raw HTML omitted --&gt;toggle this feature&lt;!-- raw HTML omitted --&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;table-captions&#34;&gt;Table Captions&lt;/h3&gt;
+&lt;p&gt;Story doesn&amp;rsquo;t convert tables to figures, but it can add captions to tables.
+See Table 3, which is followed by a paragraph whose entire content is inside an &lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt; tag.
+If the &lt;code&gt;feature-tablecaption&lt;/code&gt; feature is enabled, Story will use unobtrusive JavaScript to move that paragraph&amp;rsquo;s text into the table&amp;rsquo;s &lt;code&gt;&amp;lt;caption&amp;gt;&lt;/code&gt; element.&lt;/p&gt;
+&lt;p&gt;Tables can be autolinked and table captions can be numbered, similar to images.
+These features are controlled by the same &lt;code&gt;feature-figlink&lt;/code&gt; and &lt;code&gt;feature-fignum&lt;/code&gt; flags that control image captioning and linking, so they&amp;rsquo;ll be consistently applied.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Read next: &lt;a href=&#34;https://kumarwrites.com/images/&#34;&gt;Story&amp;rsquo;s image formatting features&lt;/a&gt;.&lt;/p&gt;</description>
+		</item>
+		
+		<item>
+			<title>Story&#39;s Image Formatting Controls</title>
+			<link>https://kumarwrites.com/images/</link>
+			<pubDate>Tue, 21 Aug 2018 00:00:00 UTC</pubDate>
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/images/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>&lt;p&gt;This article is a demo of Story&amp;rsquo;s image-related features (other than &lt;a href=&#34;https://kumarwrites.com/figures&#34;&gt;figure captions&lt;/a&gt;).
+Story can apply a variety of stylistic and layout transformations to your images.
+These features are enabled by unobtrusive, accessibility-friendly tricks that give you more control over images than Markdown typically provides.
+Story also has out-of-the-box support for header and preview images, for a visually stunning site.&lt;/p&gt;
+&lt;h3 id=&#34;shrinking-large-images&#34;&gt;Shrinking Large Images&lt;/h3&gt;
+&lt;p&gt;Story&amp;rsquo;s CSS automatically shrinks images to fit into the width of the article.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://kumarwrites.com/img/default-header-img.jpg&#34; alt=&#34;Default header image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The image above is much wider than the content region, but it&amp;rsquo;s sized to fit.&lt;/p&gt;
+&lt;h3 id=&#34;control-over-image-formatting&#34;&gt;Control Over Image Formatting&lt;/h3&gt;
+&lt;p&gt;Story uses &lt;a href=&#34;https://www.xaprb.com/blog/how-to-style-images-with-markdown/&#34;&gt;URL fragment
+techniques&lt;/a&gt; to
+give you control over image styling.
+Images that use this technique don&amp;rsquo;t get converted into &lt;a href=&#34;https://kumarwrites.com/figures&#34;&gt;figures with captions&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;![Small Lily](/img/lily.jpg# fr)&lt;/p&gt;
+&lt;p&gt;For example, you can float an image right with the &lt;code&gt;fr&lt;/code&gt; URL fragment:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-md&#34; data-lang=&#34;md&#34;&gt;![&lt;span style=&#34;color:#f92672&#34;&gt;Small Lily&lt;/span&gt;](&lt;span style=&#34;color:#a6e22e&#34;&gt;/img/lily.jpg# fr&lt;/span&gt;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;There&amp;rsquo;s a selection of these pseudo-classes built into Story via the Descartes
+CSS file; inspect the CSS or LESS source to see what styles you can attach to
+images.&lt;/p&gt;
+&lt;p&gt;If floated images interfere with headings, you can use &lt;a href=&#34;https://kumarwrites.com/features&#34;&gt;heading clear feature flags&lt;/a&gt; to fix this.&lt;/p&gt;
+&lt;h3 id=&#34;book-cover-mockups&#34;&gt;Book Cover Mockups&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://unsplash.com/photos/vHnVtLK8rCc&#34;&gt;![Small Lily](/img/lily.jpg# 3dbook)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A book cover image that&amp;rsquo;s inside an &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt; link can be floated right and given
+a 3d look with the &lt;code&gt;3dbook&lt;/code&gt; URL fragment pseudo-class.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[![Small Lily](/img/lily.jpg# 3dbook)](https://unsplash.com/photos/vHnVtLK8rCc)
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;header-images&#34;&gt;Header Images&lt;/h3&gt;
+&lt;p&gt;Story is designed for visual impact, with a featured image for each piece of content.
+Use the &lt;code&gt;image&lt;/code&gt; property in the article&amp;rsquo;s front-matter to set the image.
+Use the &lt;code&gt;credit&lt;/code&gt; to give credit to the image&amp;rsquo;s creator if you wish; Story will put a small camera icon in the header if it finds that parameter.
+Use the &lt;code&gt;thumbnail&lt;/code&gt; property to supply a smaller version of the image in list views.&lt;/p&gt;
+&lt;p&gt;A typical piece of content will have front matter like the following:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;image&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;/img/unsplash-photos-QRkew0KwXSM.jpg&amp;#34;&lt;/span&gt;
+&lt;span style=&#34;color:#66d9ef&#34;&gt;thumbnail&lt;/span&gt;: /img/unsplash-photos-QRkew0KwXSM.tn-500x500.jpg
+&lt;span style=&#34;color:#66d9ef&#34;&gt;credit&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;https://unsplash.com/photos/QRkew0KwXSM&amp;#34;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;If there&amp;rsquo;s no thumbnail, Story falls back to the full-size image.
+If there&amp;rsquo;s no article-specific image, Story uses its default, &lt;code&gt;/img/default-header-img.jpg&lt;/code&gt;, or the thumbnail equivalent, &lt;code&gt;/img/default-header-img.tn-500x500.jpg&lt;/code&gt;.
+This page doesn&amp;rsquo;t supply its own header image, so Story is using the default.&lt;/p&gt;
+&lt;p&gt;You can supply your own default header image by simply putting an image with the same name in your &lt;em&gt;site&amp;rsquo;s&lt;/em&gt; &lt;code&gt;/static/img&lt;/code&gt; directory.
+If Hugo finds that you&amp;rsquo;ve added an image of your own, it will take precedence.&lt;/p&gt;
+&lt;p&gt;You can also override section-specific header images in list
+(non-individual-page) views with parameters in the &lt;code&gt;_index.md&lt;/code&gt; content file in
+that section.  (The &lt;code&gt;title&lt;/code&gt; and &lt;code&gt;subtitle&lt;/code&gt; parameters in those files can also
+override what&amp;rsquo;s shown in list page headers.)&lt;/p&gt;
+&lt;h3 id=&#34;imageless-layout-options&#34;&gt;Imageless Layout Options&lt;/h3&gt;
+&lt;p&gt;If you don&amp;rsquo;t want header images or preview thumbnails in list views, you can set
+the &lt;code&gt;feature-nohdr&lt;/code&gt; feature. Set locally in a piece of content, it will display
+no header/banner image. Here&amp;rsquo;s an example of what a page looks like with and
+without the header image:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://kumarwrites.com/img/page-header-formatting.png&#34; alt=&#34;A page in Story, with and without the header&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Set globally for the whole site, it will make the site simply ignore all header
+and preview images:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://kumarwrites.com/img/site-header-formatting.png&#34; alt=&#34;A site in Story, with and without header and preview images&#34;&gt;&lt;/p&gt;
+&lt;p&gt;To illustrate this feature, the &lt;a href=&#34;https://kumarwrites.com/search&#34;&gt;search page&lt;/a&gt; has this feature set, so
+it has a plain, bannerless layout.&lt;/p&gt;
+&lt;h3 id=&#34;adding-depth-to-headers&#34;&gt;Adding Depth To Headers&lt;/h3&gt;
+&lt;p&gt;Articles (but not list pages) can be given a bit of extra depth with the
+&lt;code&gt;feature-depth&lt;/code&gt; class, which is negatable with &lt;code&gt;feature-nodepth&lt;/code&gt;. This article
+is an example: notice how the content is shifted up slightly to overlap the
+header image a bit, with rounded corners and a shadow around it.&lt;/p&gt;
+&lt;p&gt;The &lt;code&gt;feature-depth&lt;/code&gt; class can be set globally in your &lt;code&gt;config.yaml&lt;/code&gt; or similar,
+and overridden as you wish on individual pages.&lt;/p&gt;
+&lt;p&gt;Read next: &lt;a href=&#34;https://kumarwrites.com/search-page/&#34;&gt;Story&amp;rsquo;s built-in search features&lt;/a&gt;.&lt;/p&gt;</description>
+		</item>
+		
+		<item>
+			<title>Story&#39;s JavaScript Search</title>
+			<link>https://kumarwrites.com/search-page/</link>
+			<pubDate>Tue, 21 Aug 2018 00:00:00 UTC</pubDate>
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/search-page/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/unsplash-photos-4zxSWESyZio.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>&lt;p&gt;This article documents Story&amp;rsquo;s built-in search features, which don&amp;rsquo;t rely on external search engines.
+Story uses the &lt;a href=&#34;https://lunrjs.com/&#34;&gt;LunrJS&lt;/a&gt; library to provide fast browser-based search.
+This page first explains how search setup works, and then provides copy-paste
+ready code samples for you to use.&lt;/p&gt;
+&lt;p&gt;To get Story&amp;rsquo;s search to work, you need to take a couple of steps:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Create a piece of content with the URL you want. Story assumes you want
+&lt;code&gt;/search/&lt;/code&gt; and adds an icon for that in the top menu automatically. So you
+can simply create &lt;code&gt;content/search/_index.md&lt;/code&gt; and that should work.&lt;/li&gt;
+&lt;li&gt;Give this content the &lt;code&gt;search&lt;/code&gt; layout, and a title.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;There doesn&amp;rsquo;t need to be any Markdown content; the &lt;code&gt;search&lt;/code&gt; layout ignores it.&lt;/p&gt;
+&lt;p&gt;This will create the search page, but you also need to tell Hugo that it should
+build the JSON index of the content in the site, which LunrJS uses. To do this,
+configure the &lt;code&gt;home&lt;/code&gt; output type to include JSON, which isn&amp;rsquo;t included by
+default. This will override the default output settings, so you&amp;rsquo;ll need to
+explicitly specify the defaults in addition. Here&amp;rsquo;s a YAML config file section
+for your &lt;code&gt;config.yaml&lt;/code&gt; file to enable this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;outputs:
+   home:
+      - HTML
+      - JSON
+      - RSS
+   page:
+      - HTML
+   section:
+      - HTML
+      - RSS
+   taxonomy:
+      - HTML
+      - RSS
+   taxonomyTerm:
+      - HTML
+      - RSS
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;If you use TOML, use this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[outputs]
+  home = [&amp;quot;HTML&amp;quot;, &amp;quot;JSON&amp;quot;, &amp;quot;RSS&amp;quot;]
+  page = [&amp;quot;HTML&amp;quot;]
+  section = [&amp;quot;HTML&amp;quot;, &amp;quot;RSS&amp;quot;]
+  taxonomy = [&amp;quot;HTML&amp;quot;, &amp;quot;RSS&amp;quot;]
+  taxonomyTerm = [&amp;quot;HTML&amp;quot;, &amp;quot;RSS&amp;quot;]
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;There&amp;rsquo;s more you can do. If you want to create a full-featured search page easily, just paste the following code into &lt;code&gt;content/search/_index.md&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;---
+layout: search
+url: /search/
+title: Search
+classes:
+- feature-nosubtitle
+- feature-nohdr
+---
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This illustrates an additional layout feature in Story:
+displaying it without a header image.&lt;/p&gt;
+&lt;p&gt;Read next: &lt;a href=&#34;https://kumarwrites.com/math/&#34;&gt;Story&amp;rsquo;s mathematical equation typesetting features&lt;/a&gt;.&lt;/p&gt;</description>
+		</item>
+		
+		<item>
+			<title>Story&#39;s Music Notation</title>
+			<link>https://kumarwrites.com/music/</link>
+			<pubDate>Mon, 20 Aug 2018 04:00:00 UTC</pubDate>
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/music/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/jordan-mixson-372435-unsplash.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>&lt;p&gt;Story uses the &lt;a href=&#34;https://github.com/paulrosen/abcjs&#34;&gt;abcjs&lt;/a&gt; library to transform
+&lt;a href=&#34;https://www.abcnotation.com&#34;&gt;abc&lt;/a&gt; music notation into &amp;ldquo;sheet music&amp;rdquo; dynamically.
+This works well for displaying a wide variety of music notation in a web
+browser conveniently, without embedding images or PDFs or the like.&lt;/p&gt;
+&lt;p&gt;To generate sheet music within a page, enter it in a code listing with the language &lt;code&gt;abc&lt;/code&gt;, like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```abc
+[ABC music notation goes here]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;If you enable music notation rendering with the &lt;code&gt;feature-[no]music&lt;/code&gt; flag, then Story&amp;rsquo;s
+JavaScript, which runs when the page loads, will search for every &lt;code&gt;abc&lt;/code&gt; code listing and transform it.
+Here&amp;rsquo;s an example:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-abc&#34; data-lang=&#34;abc&#34;&gt;X: 76
+T:Mazurka
+C:F. Chopin
+T: Op.33 No.1
+M:3/4
+L:1/4
+Q:&amp;quot;Mesto&amp;quot;
+K:B
+%%staves {(RH1 RH2) (LH1 LH2)}
+V: RH1 clef=treble name=&amp;quot;Piano&amp;quot;
+V: RH2 clef=treble
+V: LH1 clef=bass
+V: LH2 clef=bass
+%
+[V: RH1] (!p!LD | E/&amp;gt;D/ [^^CGB][^C^^FA] | G2-) (G/A/ | B/c/ d {/f}e | (d/g//)) z// (Ld2 |
+[V: RH2] x  | x      x      x      | z [B,D] z  | x    x     x | x            z [G-B-]| 
+[V: LH1] x  | x      x      x      | z [D,G,] x | x3           | x3 |
+[V: LH2] z  | z      z      (D,,   | G,,2)   z  | z3           | z            z [G,-D-]|
+%
+[V: RH1] d/&amp;gt;c/ e      d) | {/c}(B/&amp;gt;A/ [EGc][DGB]) | (E/&amp;gt;D/ [^^CGB][^C^^FA] | G2 B | d/&amp;gt;c/e  d) |
+[V: RH2] [GB]  [GA] [GB] | x3                     | x3 | z [B,D][B,D]            | z [GA] [GB] |
+[V: LH1] x3 | x3 | x3 | z [D,G,] [D,G,] | x3 |
+[V: LH2] [G,D] ([C,C] [G,,G,]) | z ([C,C,,] [G,,,G,,]) | z z (D,, | G,,2) x | z ([C,C] [G,,G,])
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Story also has a &lt;code&gt;music&lt;/code&gt; shortcode, which simply takes the name of an abc file as an argument, e.g. the following example code and the resulting music notation. This enables you to store your music files separately from your content and include them easily.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;pre&gt;&lt;code class=&#34;language-abc&#34;&gt;X: 1
+T: Cooley&amp;#39;s
+M: 4/4
+L: 1/8
+K: Emin
+|:D2|EB{c}BA B2 EB|~B2 AB dBAG|FDAD BDAD|FDAD dAFD|
+EBBA B2 EB|B2 AB defg|afe^c dBAF|DEFD E2:|
+|:gf|eB B2 efge|eB B2 gedB|A2 FA DAFA|A2 FA defg|
+eB B2 eBgB|eB B2 defg|afe^c dBAF|DEFD E2:|
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Read next: &lt;a href=&#34;https://kumarwrites.com/typography/&#34;&gt;Story&amp;rsquo;s beautiful typography&lt;/a&gt;.&lt;/p&gt;</description>
+		</item>
+		
+		<item>
+			<title>Story&#39;s Mathematical Equation Typesetting</title>
+			<link>https://kumarwrites.com/math/</link>
+			<pubDate>Mon, 20 Aug 2018 00:00:00 UTC</pubDate>
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/math/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/unsplash-photos-5mZ_M06Fc9g.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>&lt;p&gt;This article is a demo of Story&amp;rsquo;s ability to typeset mathematical equations,
+both inline and in block form.&lt;/p&gt;
+&lt;p&gt;Story uses the &lt;a href=&#34;https://khan.github.io/KaTeX/&#34;&gt;KaTeX&lt;/a&gt; library to typeset
+mathematical formulae in &lt;span class=&#34;math&#34;&gt;\( \LaTeX \)&lt;/span&gt; notation. KaTeX is
+similar to MathJax, but simpler and faster. It provides most of the features
+needed for typesetting equations, both inline and in block form.&lt;/p&gt;
+&lt;p&gt;Story provides a &lt;code&gt;math&lt;/code&gt; Hugo shortcode to help avoid problems that result from
+Markdown processing. Here&amp;rsquo;s an example of using the shortcode for inline math:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;The quadratic equation is &lt;span class=&#34;math&#34;&gt;\( x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} \)&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;And in equation mode,&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+
+&lt;div class=&#34;math&#34;&gt;\[x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+\]&lt;/div&gt;
+&lt;p&gt;You don&amp;rsquo;t have to use the shortcode, but it saves you from needing to
+backslash-escape special characters, and fixes problems like backslashes and
+spaces at the end of the line, which Hugo&amp;rsquo;s Markdown processor will otherwise
+mangle. This enables frustration-free typesetting of more advanced equations
+such as the following:&lt;/p&gt;
+
+&lt;div class=&#34;math&#34;&gt;\[\left\{
+\begin{array}{c}
+a_1x&amp;#43;b_1y&amp;#43;c_1z=d_1 \\
+a_2x&amp;#43;b_2y&amp;#43;c_2z=d_2 \\
+a_3x&amp;#43;b_3y&amp;#43;c_3z=d_3
+\end{array}
+\right.
+\]&lt;/div&gt;
+&lt;p&gt;Math typesetting is controlled with the &lt;code&gt;feature-[no]math&lt;/code&gt; flag.&lt;/p&gt;
+&lt;p&gt;Read next: &lt;a href=&#34;https://kumarwrites.com/music/&#34;&gt;Story&amp;rsquo;s music notation&lt;/a&gt;.&lt;/p&gt;</description>
+		</item>
+		
+		<item>
+			<title>Story&#39;s Typography</title>
+			<link>https://kumarwrites.com/typography/</link>
+			<pubDate>Sun, 19 Aug 2018 00:00:00 UTC</pubDate>
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/typography/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/unsplash-photos-h-M3O25tyvI.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>&lt;p&gt;This article is a demo of Story&amp;rsquo;s beautiful typography.&lt;/p&gt;
+&lt;p&gt;Story is designed to showcase long-form content such as essays and technical
+blog posts.  It is built for readability and grace in both screen and print
+media at all sizes.&lt;/p&gt;
+&lt;p&gt;Try opening your print dialog and saving this page as a
+PDF. Now try viewing this page on a cellphone.&lt;/p&gt;
+&lt;p&gt;Story supports text justification and hyphenation. Click here to toggle &lt;!-- raw HTML omitted --&gt;hyphenation&lt;!-- raw HTML omitted --&gt; and &lt;!-- raw HTML omitted --&gt;justification&lt;!-- raw HTML omitted --&gt;. These features can
+be enabled or disabled with the &lt;code&gt;feature-[no]hyphenate&lt;/code&gt; and
+&lt;code&gt;feature-[no]justify&lt;/code&gt; feature flags.&lt;/p&gt;
+&lt;h3 id=&#34;moby-dick-or-the-whale-heading-level-3&#34;&gt;Moby-Dick; Or, The Whale: Heading Level 3&lt;/h3&gt;
+&lt;p&gt;Story reserves H1 and H2 for its own use, and assumes you&amp;rsquo;ll use H3 in your content.
+To hide subtitles, use the &lt;code&gt;feature-nosubtitle&lt;/code&gt; feature.&lt;/p&gt;
+&lt;p&gt;Floated images occasionally interfere with content, usually headings.
+Story provides &lt;a href=&#34;https://kumarwrites.com/features&#34;&gt;feature flags&lt;/a&gt; to add clears (left, right, and both) to &lt;code&gt;&amp;lt;h3&amp;gt;&lt;/code&gt; elements.&lt;/p&gt;
+&lt;p&gt;Call me Ishmael. Some years ago&amp;mdash;never mind how long precisely&amp;mdash;having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation. Whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from deliberately stepping into the street, and methodically knocking people’s hats off&amp;mdash;then, I account it high time to get to sea as soon as I can.&lt;/p&gt;
+&lt;h4 id=&#34;fleuron-and-dinkus-heading-level-4&#34;&gt;Fleuron and Dinkus: Heading Level 4&lt;/h4&gt;
+&lt;p&gt;An &lt;code&gt;&amp;lt;hr&amp;gt;&lt;/code&gt; tag can be rendered as a fleuron, with the &lt;code&gt;feature-hrfleuron&lt;/code&gt; flag. It
+can also be a dinkus if you like; use the &lt;code&gt;feature-hrdinkus&lt;/code&gt; flag. Both are
+negatable and implemented in CSS. Here&amp;rsquo;s a demo. You can toggle these features
+with &lt;!-- raw HTML omitted --&gt;feature-hrfleuron&lt;!-- raw HTML omitted --&gt; and &lt;!-- raw HTML omitted --&gt;feature-hrdinkus&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Call me Ishmael. Some years ago&amp;mdash;never mind how long precisely&amp;mdash;having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation.&lt;/p&gt;
+&lt;p&gt;Story has support for syntax highlighting inside of code blocks. It uses
+&lt;a href=&#34;https://highlightjs.org/&#34;&gt;highlight.js&lt;/a&gt; for this. This feature is controlled with the &lt;code&gt;feature-[no]highlight&lt;/code&gt; flag.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;$initHighlight&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;block&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;cls&lt;/span&gt;) {
+  &lt;span style=&#34;color:#66d9ef&#34;&gt;try&lt;/span&gt; {
+    &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; (&lt;span style=&#34;color:#a6e22e&#34;&gt;cls&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;search&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;/\bno\-highlight\b/&lt;/span&gt;) &lt;span style=&#34;color:#f92672&#34;&gt;!=&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;)
+      &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;process&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;block&lt;/span&gt;, &lt;span style=&#34;color:#66d9ef&#34;&gt;true&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;0x0F&lt;/span&gt;) &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt;
+             &lt;span style=&#34;color:#e6db74&#34;&gt;` class=&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;${&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;cls&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;}&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;`&lt;/span&gt;;
+  } &lt;span style=&#34;color:#66d9ef&#34;&gt;catch&lt;/span&gt; (&lt;span style=&#34;color:#a6e22e&#34;&gt;e&lt;/span&gt;) {
+    &lt;span style=&#34;color:#75715e&#34;&gt;/* handle exception */&lt;/span&gt;
+  }
+  &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; (&lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;; &lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;classes&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;length&lt;/span&gt;; &lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;++&lt;/span&gt;) {
+    &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; (&lt;span style=&#34;color:#a6e22e&#34;&gt;checkCondition&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;classes&lt;/span&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt;]) &lt;span style=&#34;color:#f92672&#34;&gt;===&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;undefined&lt;/span&gt;)
+      &lt;span style=&#34;color:#a6e22e&#34;&gt;console&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;log&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;undefined&amp;#39;&lt;/span&gt;);
+  }
+}
+
+&lt;span style=&#34;color:#66d9ef&#34;&gt;export&lt;/span&gt;  &lt;span style=&#34;color:#a6e22e&#34;&gt;$initHighlight&lt;/span&gt;;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Here is text with &lt;em&gt;emphasis&lt;/em&gt; and &lt;strong&gt;boldness&lt;/strong&gt;; &lt;del&gt;strikethrough&lt;/del&gt;.^[A footnote]&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a blockquote. I thought I would sail about the unimaginative incomprehensibilities of the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation. (This quote is a demo of justification and hyphenation.)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Blockquotes can nest.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Here is an unordered list:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Item one&lt;/li&gt;
+&lt;li&gt;Item two&lt;/li&gt;
+&lt;li&gt;Item three is longer. I thought I would sail about a little and see the unimaginative incomprehensibilities of the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation. (This is a justification and hyphenation demo.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And an ordered list:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Item one&lt;/li&gt;
+&lt;li&gt;Item two&lt;/li&gt;
+&lt;li&gt;Item three is longer. I thought I would sail about a little and see the unimaginative incomprehensibilities of the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation. (This is a justification and hyphenation demo.)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;quotes-that-link-to-tweets&#34;&gt;Quotes That Link To Tweets&lt;/h3&gt;
+&lt;p&gt;If you don&amp;rsquo;t like embedding tweets, Story has a cleaner way to quote and link to a tweet. Just blockquote the content and begin it with a link containing the author&amp;rsquo;s name and the tweet&amp;rsquo;s permalink, and enable the &lt;code&gt;feature-tweetquote&lt;/code&gt; flag. Story will transform the quote to resemble a simplistic tweet styling. If the flag isn&amp;rsquo;t enabled, normal blockquote styling applies.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/xaprb/status/921004656402321408&#34;&gt;Baron Sc​hwartz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Monitoring tells you whether the system works. Observability lets you ask why it&amp;rsquo;s not working.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Read next: &lt;a href=&#34;https://kumarwrites.com/mailchimp-features&#34;&gt;Story&amp;rsquo;s MailChimp subscribe forms and RSS feeds&lt;/a&gt;.&lt;/p&gt;</description>
+		</item>
+		
+		<item>
+			<title>Story&#39;s MailChimp Integration Features</title>
+			<link>https://kumarwrites.com/mailchimp-features/</link>
+			<pubDate>Sat, 18 Aug 2018 00:00:00 UTC</pubDate>
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/mailchimp-features/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/jessy-hoffmann-720198-unsplash.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>&lt;p&gt;If you&amp;rsquo;re a blogger, you might use MailChimp to build a subscriber list, and
+Story makes that easy. MailChimp also has the ability to automatically send your
+new content to the list from an RSS feed, and guess what&amp;mdash;Story helps you
+create an RSS feed customized just for that if you like, too.&lt;/p&gt;
+&lt;p&gt;First, MailChimp subscriber forms. If you want to add a subscription form at the
+bottom of each page, just add your MailChimp URL as a parameter in your
+configuration file. Here&amp;rsquo;s a YAML example for &lt;code&gt;config.yaml&lt;/code&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;params&lt;/span&gt;:
+- &lt;span style=&#34;color:#66d9ef&#34;&gt;mailchimp&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;your URL here&amp;#34;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;And here&amp;rsquo;s an example for &lt;code&gt;config.toml&lt;/code&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;params&lt;/span&gt;]
+  &lt;span style=&#34;color:#a6e22e&#34;&gt;mailchimp&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;your URL here&amp;#34;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;You can copy the URL from the address bar of your MailChimp subscriber form. It
+becomes the &lt;code&gt;action&lt;/code&gt; of the form, which will appear at the bottom of each page
+near your author biography.&lt;/p&gt;
+&lt;p&gt;Next, an RSS feed. Story has an RSS layout customized to create summaries of
+your content&amp;rsquo;s title, description, featured image, and summary content. The
+summary content is either delimited explicitly by the &lt;code&gt;&amp;lt;!--more--&amp;gt;&lt;/code&gt; comment in
+your Markdown source, or generated automatically by Hugo. (Read more
+&lt;a href=&#34;https://gohugo.io/content-management/summaries/&#34;&gt;here&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;The default content of the RSS feed entries is generated from the page&amp;rsquo;s
+&lt;code&gt;description&lt;/code&gt; front matter and &lt;code&gt;.Summary&lt;/code&gt; content, but you can provide your own
+to override this.  Simply add an excerpt in the &lt;code&gt;tldr&lt;/code&gt; front matter property.&lt;/p&gt;
+&lt;p&gt;To enable the RSS feed, you need to create a special &lt;code&gt;.md&lt;/code&gt; file that won&amp;rsquo;t
+appear as regular content, but will render an extra RSS feed file. Its content
+is ignored, and only its front matter is important. For example, you could
+create it as &lt;code&gt;content/mailchimp/_index.md&lt;/code&gt; with the following contents, using YAML
+front matter:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;---
+&lt;span style=&#34;color:#66d9ef&#34;&gt;layout&lt;/span&gt;: mailchimp
+&lt;span style=&#34;color:#66d9ef&#34;&gt;outputs&lt;/span&gt;:
+- rss
+---
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Now Hugo will build an extra feed at
+&lt;a href=&#34;https://kumarwrites.com/mailchimp/index.xml&#34;&gt;&lt;code&gt;/mailchimp/index.xml&lt;/code&gt;&lt;/a&gt;, and you can use it to create
+&lt;a href=&#34;https://mailchimp.com/help/share-your-blog-posts-with-mailchimp/&#34;&gt;RSS campaigns in
+MailChimp&lt;/a&gt;. Of
+course, you can also use your normal RSS feed, but Story&amp;rsquo;s default is to put
+full content into that, so it might be more than you want.&lt;/p&gt;
+&lt;p&gt;Read next: &lt;a href=&#34;https://kumarwrites.com/talks/adirondack/&#34;&gt;Story&amp;rsquo;s &amp;lsquo;talks&amp;rsquo; feature for presentations&lt;/a&gt;.&lt;/p&gt;</description>
+		</item>
 		
 		<item>
 			<title>About Me</title>
@@ -15,44 +965,50 @@
 			<author>Kumar Garapati</author>
 			<guid>https://kumarwrites.com/about-me/</guid>
 			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
-			<description>&lt;p&gt;&lt;em&gt;I also write on my &lt;a href=&#34;https://www.confluent.io/blog/author/robin/&#34;&gt;employer&amp;rsquo;s blog&lt;/a&gt; (&lt;a href=&#34;http://ritt.md/rmoff&#34;&gt;previously&lt;/a&gt;).&lt;/em&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;whoami&#34;&gt;&lt;code&gt;whoami&lt;/code&gt;&lt;/h3&gt;
+			<description>&lt;h3 id=&#34;who-am-i&#34;&gt;&lt;code&gt;Who am i?&lt;/code&gt;&lt;/h3&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Kumar Garapati is a Senior Developer Advocate at Confluent, the company founded by the original creators of Apache Kafka®, as well as an Oracle ACE Director (alumnus). His career has always involved data, from the old worlds of COBOL and DB2, through the worlds of Oracle and Hadoop, and into the current world with Kafka. His particular interests are analytics, systems architecture, performance testing and optimization. He blogs at &lt;a href=&#34;http://cnfl.io/rmoff&#34;&gt;http://cnfl.io/rmoff&lt;/a&gt; and &lt;a href=&#34;http://rmoff.net/&#34;&gt;http://rmoff.net/&lt;/a&gt; (and previously &lt;a href=&#34;http://ritt.md/rmoff&#34;&gt;http://ritt.md/rmoff&lt;/a&gt;) and can be found tweeting grumpy geek thoughts as @rmoff. Outside of work he enjoys drinking good beer and eating fried breakfasts, although generally not at the same time.&lt;/p&gt;
+&lt;p&gt;Kumar Garapati is a Lead Web Developer at LinkPoint360. His career has always involved Website Development, from the old Asp.net WebForms, through the worlds of MVC and SPA, and into the current world of many JavaScript Frameworks. His particular interests are Full Stack Software Development, Angular, Ionic, .Net Framework and Cloud Architecture. Outside of work he enjoys travelling, drinking good beer and eating spicy food.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;This is a test lets see&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;speaking-experience&#34;&gt;Speaking experience&lt;/h3&gt;
-&lt;p&gt;Speaker since 2009 at conferences including QCon, Devoxx, O&amp;rsquo;Reilly Strata, NDC, USENIX LISA, Kafka Summit, Øredev, O&amp;rsquo;Reilly SACon, Oracle OpenWorld, JavaZone, Big Data LDN, UKOUG, Oracle CODE, PGConf, etc plus numerous meetups.&lt;/p&gt;
-&lt;p&gt;Slides &amp;amp; Recordings: &lt;a href=&#34;http://rmoff.net/talks/&#34;&gt;http://rmoff.net/talks/&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;social&#34;&gt;Social&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Twitter &lt;a href=&#34;https://twitter.com/rmoff/&#34;&gt;@rmoff&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;mailto:robin@rmoff.net&#34;&gt;Email&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/robinmoffatt&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://speakerdeck.com/rmoff&#34;&gt;SpeakerDeck&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/rmoff&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/rmoff/&#34;&gt;Dev.to&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://t.me/rmoff&#34;&gt;Telegram&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/rnmoffatt/&#34;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://keybase.io/rmoff/&#34;&gt;Keybase&lt;/a&gt; 🔑&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://untappd.com/user/rmoff&#34;&gt;Untappd&lt;/a&gt; 🍻&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.last.fm/user/themoff&#34;&gt;last.fm&lt;/a&gt; 🎵&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://soundcloud.com/rmoff&#34;&gt;Soundcloud&lt;/a&gt; 🎶&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.mixcloud.com/rmoff/&#34;&gt;Mixcloud&lt;/a&gt; 🎶&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.strava.com/athletes/10250052/&#34;&gt;Strava&lt;/a&gt; 🏃&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/Kumar_Garapati/&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:nanigarapati@gmail.com&#34;&gt;Email&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/kumargarapati&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;mugshots&#34;&gt;Mugshots&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;https://kumarwrites.com/images/2018/05/ksldn18-01.jpg&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;https://kumarwrites.com/images/2018/05/robin-moffatt-600px.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
+		</item>
+		
+		<item>
+			<title>Archives</title>
+			<link>https://kumarwrites.com/archives/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/archives/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description></description>
+		</item>
+		
+		<item>
+			<title>Authors</title>
+			<link>https://kumarwrites.com/authors/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/authors/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description></description>
+		</item>
+		
+		<item>
+			<title>Search</title>
+			<link>https://kumarwrites.com/search/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/search/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description></description>
 		</item>
 		
 	</channel>

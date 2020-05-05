@@ -9,26 +9,16 @@ buildFuture = true
 [[menu.social]]
   name = "GitHub"
   title = "fab fa-github-square"
-  url = "https://github.com/xaprb/story/"
-
-[[menu.main]]
-  name = "Talks"
-  title = "Talks"
-  url = "/talks/"
-
-[[menu.main]]
-  name = "Slides"
-  title = "Slides"
-  url = "/slides/"
+  url = "https://github.com/kumaro/"
 
 [[menu.main]]
   name = "Archives"
   title = "Archives"
-  url = "/archives/"
+  url = "/posts/"
 
 [params]
   author = "Kumar Garapati"
-  twitter = "xaprb"
+  twitter = "Kumar_Garapati"
   classes = []
 
 [outputs]

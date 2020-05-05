@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kumar Garapati&#39;s Writings</title>
+    <link>https://kumarwrites.com/posts/</link>
+    <description>Recent content in Posts on Kumar Garapati&#39;s Writings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kumarwrites.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Future Talk</title>
+      <link>https://kumarwrites.com/posts/my-first-post/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://kumarwrites.com/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Story&amp;rsquo;s talks pages can highlight upcoming appearances, promoting your talks
+before you present. This is a dummy page illustrating this capability.&lt;/p&gt;
+&lt;p&gt;You&amp;rsquo;ll have to add &lt;code&gt;buildFuture: true&lt;/code&gt; to your site&amp;rsquo;s &lt;code&gt;config.yaml&lt;/code&gt; to enable
+this setting.  Talks pages that are in the future won&amp;rsquo;t appear on the homepage
+or in your RSS feeds; they&amp;rsquo;ll only appear in the &lt;code&gt;/talks/&lt;/code&gt; list page of your
+site.&lt;/p&gt;
+&lt;p&gt;This page also illustrates that you can use PDF slides. Story uses PDF.js to embed a slide viewer.
+So you don&amp;rsquo;t have to build slides in RemarkJS, you can host them yourself, like Slideshare (but better).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>P</title>
+      <link>https://kumarwrites.com/posts/p/</link>
+      <pubDate>Tue, 05 May 2020 03:10:25 -0400</pubDate>
+      
+      <guid>https://kumarwrites.com/posts/p/</guid>
+      <description>this is a test</description>
+    </item>
+    
+  </channel>
+</rss>

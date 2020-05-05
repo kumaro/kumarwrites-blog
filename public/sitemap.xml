@@ -3,15 +3,141 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kumarwrites.com/about-me/</loc>
+    <loc>https://kumarwrites.com/posts/my-first-post/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kumarwrites.com/talks/a-future-talk/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kumarwrites.com/posts/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kumarwrites.com/talks/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kumarwrites.com/posts/p/</loc>
+    <lastmod>2020-05-05T03:10:25-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://kumarwrites.com/categories/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kumarwrites.com/categories/demo/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://kumarwrites.com/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kumarwrites.com/about-story/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kumarwrites.com/theme-features/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kumarwrites.com/features/</loc>
+    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kumarwrites.com/author-profiles/</loc>
+    <lastmod>2018-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kumarwrites.com/figures/</loc>
+    <lastmod>2018-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kumarwrites.com/images/</loc>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kumarwrites.com/search-page/</loc>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kumarwrites.com/music/</loc>
+    <lastmod>2018-08-20T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kumarwrites.com/math/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kumarwrites.com/typography/</loc>
+    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kumarwrites.com/mailchimp-features/</loc>
+    <lastmod>2018-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kumarwrites.com/talks/adirondack/</loc>
+    <lastmod>2018-05-08T16:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kumarwrites.com/slides/adirondack/</loc>
+    <lastmod>2018-04-25T09:50:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kumarwrites.com/slides/</loc>
+    <lastmod>2018-04-25T09:50:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kumarwrites.com/authors/elvis-presley/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kumarwrites.com/authors/kumar-garapati/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kumarwrites.com/mailchimp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kumarwrites.com/about-me/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kumarwrites.com/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kumarwrites.com/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kumarwrites.com/search/</loc>
   </url>
   
   <url>
